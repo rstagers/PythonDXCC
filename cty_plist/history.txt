@@ -1,0 +1,38 @@
+    30 October 2017 (CTY-2712)
+    VER20171030, Version entity is Togo, 5V
+
+    Added/changed Entities/Prefixes/Callsigns:
+
+	* 4U2U is Vienna Intl Ctr, *4U1V
+	* GB2ELH is Shetland Islands, *GM/s
+	* 3V8CB/J is Tunisia, 3V
+	* 9H9PSG/J is Malta, 9H
+	* 9M4SJSD is East Malaysia, 9M6
+	* GB2GU is Guernsey, GU
+	* 4U24OCT, IQ6VP/J, IQ7ML/J and IZ4AIH/J are all Italy, I
+	* II0M is Sardinia, IS
+	* KD0EE is United States, K in CQ zone 4, ITU zone 8
+	* KB3SEV, KC2HL, KC9SBG, KE7PIZ and W7EHP are all Hawaii, KH6
+	* KA2ZSD and KC0TK are both Alaska, KL
+	* K4D is Puerto Rico, KP4
+	* LU1AET/D is Argentina, LU
+	* 4U2U is Austria, OE
+	* OK1KCR/J is Czech Republic, OK
+	* PA1FJ/J, PA4WK/J, PA6HYG/J, PA6JAM/J, PA6SJS/J, PH50GFB/J, PH6BB/J
+	  and PI4CQ/J are all Netherlands, PA
+	* SV2KBB/J and SZ2TSL/J are both Greece, SV
+	* R8MB/1 is European Russia, UA in CQ zone 17, ITU zone 20
+	* R3CG/8 and RK6YM/8 are both Asiatic Russia, UA9 in ITU zone 20
+	* VK9AR/6 is Australia, VK in CQ zone 29, ITU zone 58
+	* YU1BBA/J is Serbia, YU
+
+    Removed Entities/Prefixes/Callsigns:
+
+	* TX5EG in French Polynesia, FO
+	* GB0WHR and GB1SPN in Wales, GW
+	* AI0M in United States, K
+	* KI6EFY and NH2KH in Hawaii, KH6
+	* AH0AH, KE7FNC and WA7B in Alaska, KL
+	* LU3HPW/H, LU6HBB/Q and LU7AA/U in Argentina, LU
+	* R73QRQ, R870B, R8AEU/6 and R9KW/4 in European Russia, UA
+	* RA/UR8IF, UA0QQO/9/P and UE70AAA in Asiatic Russia, UA9
